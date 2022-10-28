@@ -1,3 +1,1 @@
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mininxd&show_icons=true)](https://github.com/MininxD/PogChamp-Click)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mininxd?cardType=github&theme=github)](https://git.io/awesome-stats-card)
