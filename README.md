@@ -1,6 +1,5 @@
-![](https://count.getloli.com/get/@:mininxd?theme=gelbooru-h)
+[![](https://count.getloli.com/get/@:mininxd?theme=gelbooru-h)](https://mininxd.my.id)
 
 [![snake](https://github.com/rezonated/rezonated/blob/main/github-contribution-grid-snake.svg)](https://mininxd.my.id)
-<br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,firebase,vercel)](https://mininxd.my.id/)
