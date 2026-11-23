@@ -6,7 +6,7 @@
 
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/mininxd/badge.svg)](https://hub.xerj.org/contributors/mininxd)
 
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,vite,nodejs,express,vercel,kotlin)](https://mininxd.vercel.app)
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,nodejs,vercel,kotlin,c,rust)](https://mininxd.vercel.app)
 
 [![An image of @mininxd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mininxd)](https://holopin.io/@mininxd)
 
