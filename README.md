@@ -1,4 +1,4 @@
-![profile | mininxd](./profile-badge.gif)
+![profile | mininxd](./profile.png)
 
 [![](https://count.getloli.com/get/@:mininxd?theme=rule34)](https://mininxd.vercel.app)
 
